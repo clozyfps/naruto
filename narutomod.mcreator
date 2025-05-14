@@ -11,7 +11,8 @@
           "src/main/java/net/mcreator/narutomod/procedures/TestProcedure.java"
         ],
         "dependencies": []
-      }
+      },
+      "path": "~/Procedures"
     }
   ],
   "variable_elements": [],
@@ -23,7 +24,12 @@
   },
   "foldersRoot": {
     "name": "~",
-    "children": []
+    "children": [
+      {
+        "name": "Procedures",
+        "children": []
+      }
+    ]
   },
   "workspaceSettings": {
     "modid": "narutomod",
